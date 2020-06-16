@@ -1,6 +1,6 @@
 baseURL = "https://localfutures.moof.uk/"
 languageCode = "en-gb"
-title = "Local Futures"
+title = "Futures Near Me"
 theme = "moofuk"
 
 #themesDir = "../.."
