@@ -5,7 +5,7 @@ title = "About"
 
 +++
 
-## About Futures Near Me  
+## About Futures Near Me
 
 We live in a time of great disruption and change, not least in how we stay informed about what's going on. Making sense of things at a local level so we can best navigate the future is more important than ever. The Futures Near Me podcast is focused on the locality of South Cambridgeshire in the UK, but also further afield, and how the region and the wider world relate.
 
