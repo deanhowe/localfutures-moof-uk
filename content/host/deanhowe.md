@@ -15,4 +15,4 @@ YouTube = ""
 
 +++
 
-Dean Howe is a Web Developer on the Foxton Parish Council.
+Dean Howe is a Web Developer who was served as a Parish Councillor Foxton in South Cambs.
