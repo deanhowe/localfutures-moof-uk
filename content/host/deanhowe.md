@@ -6,11 +6,13 @@ Website = "https://moof.uk/"
 Type = "host"
 Facebook = ""
 Linkedin = ""
-Pronouns = ""
+Pronouns = "Him/He"
 GitHub = "deanhowe"
 Thumbnail = "img/host/deanhowe.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+
 +++
+
 Dean Howe is a Web Developer on the Foxton Parish Council.
